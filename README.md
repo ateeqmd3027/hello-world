@@ -5,3 +5,4 @@ Hello people!
 
 This is test project.
 
+mention usage
